@@ -26,18 +26,6 @@ print(shine_matrix)
 
 
 
-#'[Матриц: Шинээр garig_odruud гэсэн хувьсагч дотор дараах үгэн векторуудыг оруулна уу.]
-
-c("Davaa_garig", "Myagmar_garig", "Lhagva_garig", "Purev_garig", "Baasan_garig")
-
-
-#'[Матриц: Доорхи бичсэн программыг уншуулж үр дүнг коммент # бичилтээр үлдээнэ үү.]
-
-
-shine_matrix <- cbind(niit_orlogo, niit_zarlaga, garig_odruud)
-shine_matrix
-
-
 
 
 
