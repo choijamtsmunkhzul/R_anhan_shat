@@ -25,6 +25,13 @@ c(120000, 500000, 85000, 250000, 700000)
 print(shine_matrix)
 
 
+#'[Матриц: Доорх программыг уншуулж print() комманд ашиглаж хэвлэж гаргана уу.]
+
+rownames(shine_matrix) <- c("Davaa_garig", "Myagmar_garig", "Lhagva_garig", "Purev_garig", "Baasan_garig")
+print(shine_matrix)
+
+
+
 
 
 
